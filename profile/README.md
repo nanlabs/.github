@@ -24,9 +24,11 @@
 
 ## Sponsored External Projects
 
-We proudly sponsor the following project:
+We proudly sponsor the following projects:
 
 - **[create-awesome-node-app](https://github.com/Create-Node-App/create-node-app):** A powerful tool to scaffold your application. Choose from different templates and extensions for web apps, web extensions, monorepos, and more! 🌐
+
+- **[recoil-devtools](https://github.com/ulises-jeremias/recoil-devtools):** Supercharge your Recoil development workflow (or any other state management architecture) with these developer tools. Simplify state change management like never before! 🔍
 
 Join us in celebrating the spirit of Hacktoberfest by contributing to our open-source projects. Your contributions make a difference! 🙌
 

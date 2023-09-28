@@ -1,13 +1,12 @@
 # Welcome to NaNLABS Open Source
 
-<br />
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" alt="" align="left" width="250px" srcset="https://github.com/nanlabs/.github/blob/main/profile/octocat-1695888759504.png?raw=true"/>
   <img alt="" align="left" width="250px" src="https://github.com/nanlabs/.github/blob/main/profile/octocat-1695888759504.png?raw=true"/>
 </picture>
 
+<br />
+<br />
 <br />
 <br />
 <br />

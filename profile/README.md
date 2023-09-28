@@ -1,17 +1,8 @@
 # Welcome to NaNLABS Open Source
 
-<picture>
-  <source alt="" align="left" width="250px" srcset="./octocat-1695888759504.png"/>
-  <img alt="" align="left" width="250px" src="./octocat-1695888759504.png"/>
-</picture>
+<img alt="" align="left" width="250px" src="./octocat-1695888759504.png"/>
 
 🚀 Welcome to NaNLABS' Open Source projects! We're thrilled to have you here as part of our vibrant open-source community. Explore our awesome list and highlighted repositories to find exciting projects to contribute to during Hacktoberfest! 🎉
-
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## Our Awesome List
 

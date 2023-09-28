@@ -1,8 +1,8 @@
 # Welcome to NaNLABS Open Source
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="250px" srcset="https://github.com/nanlabs/.github/blob/main/profile/octocat-1695888759504.png?raw=true"/>
-  <img alt="" align="left" width="250px" src="https://github.com/nanlabs/.github/blob/main/profile/octocat-1695888759504.png?raw=true"/>
+  <source media="(prefers-color-scheme: dark)" alt="" align="left" width="200px" srcset="https://github.com/nanlabs/.github/blob/main/profile/octocat-1695888759504.png?raw=true"/>
+  <img alt="" align="left" width="200px" src="https://github.com/nanlabs/.github/blob/main/profile/octocat-1695888759504.png?raw=true"/>
 </picture>
 
 🚀 Welcome to NaNLABS' Open Source projects! We're thrilled to have you here as part of our vibrant open-source community. Explore our awesome list and highlighted repositories to find exciting projects to contribute to during Hacktoberfest! 🎉

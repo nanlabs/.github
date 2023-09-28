@@ -11,6 +11,8 @@ Join us in celebrating the spirit of Hacktoberfest by contributing to our open-s
 
 Happy Hacking! 🌟
 
+- - -
+
 ## Our Awesome List
 
 - **[awesome-nan](https://github.com/nanlabs/awesome-nan):** Dive into our curated list of Open Source examples and projects at NaNLABS. Discover awesome tools, libraries, and more. 🌟

@@ -1,10 +1,16 @@
 ---
 name: "🐛 Bug Report"
 description: Report a bug
-title: "(short issue description)"
+title: "[BUG]: short issue description"
 labels: [bug]
 assignees: []
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report 🤗
+        Make sure there aren't any open/closed issues for this topic 😃
+        Please fill out the sections below to help us better understand the issue.
   - type: textarea
     id: description
     attributes:
@@ -67,7 +73,7 @@ body:
         Please provide the version of the repository or tool you are using.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: environment
     attributes:
       label: Environment details (OS name and version, etc.)

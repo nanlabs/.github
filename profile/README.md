@@ -27,6 +27,8 @@ Happy Hacking! 🌟
 
 - **[terraform-aws-starter](https://github.com/nanlabs/terraform-aws-starter):** Start your AWS infrastructure journey quickly with this Terraform starter kit. It covers secure state management, VPC configuration, security groups, RDS provisioning, secrets management, and GitHub Actions integration! ☁️
 
+- **[terraform-aws-modules](https://github.com/nanlabs/terraform-aws-modules):** Reusable Terraform modules for multiple cloud providers (AWS, MongoDB Atlas, and more). Designed for composability and production-ready infrastructure. 🏗️
+
 - **[aws-glue-etl-boilerplate](https://github.com/nanlabs/aws-glue-etl-boilerplate):** Check out this complete example of an AWS Glue application. It uses the Serverless Framework for infrastructure deployment and DevContainers/Docker Compose for local development with AWS Glue Libs, Spark, Jupyter Notebook, and more. 🧪
 
 - **[automation-seed](https://github.com/nanlabs/automation-seed):** Automation Seed is an end-to-end automation framework built on WebdriverIO v7 and Selenium. It uses Selenoid for execution. Dive into automation, TypeScript, Selenium, and more. 🤖

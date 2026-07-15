@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/nanlabs/.github#readme",
   "dependencies": {
-    "danger": "^13.0.4"
+    "danger": "^11.3.1"
   },
   "devDependencies": {
     "typescript": "^5.5.4"

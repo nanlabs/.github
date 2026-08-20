@@ -1,9 +1,13 @@
----
-name: 🚀 Feature Request
-description: Suggest an idea for this project
-title: "(short issue description)"
-labels: [feature-request, enhancement]
+name: Feature Request
+description: Request, idea, or new functionality
+title: "[Feature]: "
+type: Feature
+labels: [enhancement]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Maps to org issue type **Feature**. For structured delivery work prefer Epic / User Story / Task templates.
   - type: textarea
     id: description
     attributes:
@@ -11,49 +15,37 @@ body:
       description: A clear and concise description of the proposed feature.
     validations:
       required: true
-
   - type: textarea
     id: use-case
     attributes:
       label: Use Case
-      description: |
-        Why do you need this feature?
-        For example: "I'm always frustrated when..."
+      description: Why do you need this feature?
     validations:
       required: true
-
   - type: textarea
     id: solution
     attributes:
       label: Proposed Solution
-      description: |
-        Suggest how to implement the addition or change. Please include a
-        prototype, workaround, sketch, or reference implementation.
+      description: Suggest how to implement the change. Include sketches or references.
     validations:
       required: false
-
   - type: textarea
     id: acceptance-criteria
     attributes:
       label: Acceptance Criteria
-      description: How will maintainers know this is complete?
       value: |
-        - [ ] Add the expected behavior
-        - [ ] Update tests or docs when applicable
-        - [ ] Document validation steps
+        - [ ] Expected behavior implemented
+        - [ ] Tests or validation updated
+        - [ ] Docs updated if needed
     validations:
       required: false
-
   - type: textarea
     id: other
     attributes:
       label: Other Information
-      description: |
-        Any alternative solutions or features you considered, a more detailed
-        explanation, stack traces, related issues, links for context, etc.
+      description: Alternatives, related issues, links, etc.
     validations:
       required: false
-
   - type: checkboxes
     id: ack
     attributes:
@@ -63,27 +55,3 @@ body:
           required: false
         - label: This feature might incur a breaking change
           required: false
-
-  - type: input
-    id: version
-    attributes:
-      label: Version used
-      description: |
-        Please provide the version of the repository or tool you are using.
-    validations:
-      required: true
-
-  - type: input
-    id: environment
-    attributes:
-      label: Environment details (OS name and version, etc.)
-    validations:
-      required: true
-
-  - type: checkboxes
-    id: public-safety
-    attributes:
-      label: Public issue checklist
-      options:
-        - label: This request does not include secrets or private project links
-          required: true
